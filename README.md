@@ -31,7 +31,7 @@ Superstore Sales Dataset
 
 Created a clean and interactive dashboard focused on business insights and visual storytelling.
 
-# Superstore Sales Performance Dashboard
+## Superstore Sales Performance Dashboard
 
 ![Dashboard Preview](Superstore_Sales_Dashboard.png)
 
