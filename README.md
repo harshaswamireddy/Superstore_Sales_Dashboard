@@ -31,10 +31,14 @@ Superstore Sales Dataset
 
 Created a clean and interactive dashboard focused on business insights and visual storytelling.
 
+# Superstore Sales Performance Dashboard
+
+![Dashboard Preview](Superstore_Sales_Dashboard.png)
+
 ## Files Included
 
-* Power BI Dashboard (`Superstore_Dashboard.pbix`)
-* Dashboard PDF (`Dashboard.pdf`)
-* Dashboard Screenshot (`dashboard_screenshot.png`)
-* Dataset File (`superstore.csv`)
+* Power BI Dashboard (`Superstore_Sales_Dashboard.pbix`)
+* Dashboard PDF (`Superstore_Sales_Dashboard.pdf`)
+* Dashboard Screenshot (`Superstore_Sales_Dashboard.png`)
+* Dataset File (`Sample - Superstore.csv`)
 * README File (`README.md`)
